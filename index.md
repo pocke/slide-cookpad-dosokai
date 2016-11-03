@@ -188,3 +188,29 @@ Thanks! https://github.com/nownabe/docker-mecab-neologd
 ---
 
 
+<!-- -attr- data-background="#ed538e" -->
+
+# 本
+
+---
+
+
+## 本を買うのが好き
+
+<!-- -attr- data-background="#ed538e" -->
+<img src="./book_tw.png" alt="">
+
+
+---
+
+<!-- -attr- data-background="#ed538e" -->
+
+# 本棚の様子
+
+
+---
+
+<!-- -attr- data-background="#ed538e" -->
+
+
+---
